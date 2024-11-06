@@ -61,22 +61,27 @@ let negValue = -value
 
 // console.log(2/3);
 
-// console.log(2%2);
+// console.log(35%3);
 
-let str1 = "hello";
+// let str1 = "hello";
 
-let str2 = "saloni";
+// let str2 = "saloni";
 
-let str3 = console.log(str1+str2);
+// let str3 = console.log(str1+str2);
 
-console.log(1 + "2");
+// console.log(1 + "2");
 
-console.log("1" + 2);
+// console.log("1" + 2);
 
-console.log("1" + "2");
+// console.log("1" + "2");
 
-console.log("1" + 2 + 2);
+// console.log("1" + 2 + 2);
 
-console.log(1 + 2 + "2");
+// console.log(1 + 2 + "2");
 
+// console.log((3+4) * 5 % 3);
+
+console.log(+true);
+
+console.log(+"");
 
