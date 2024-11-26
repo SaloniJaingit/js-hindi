@@ -16,13 +16,21 @@ let userEmail;
 
 const id = Symbol('123')
 
-console.log(id)
+// console.log(id)
 
 const anotherId = Symbol('123')
 
-console.log(anotherId)
+// console.log(anotherId)
 
-console.log(id == anotherId)
+// console.log(id == anotherId)
+
+
+// Bigint
+
+const bigNumber = 1123344556681n
+
+// console.log(bigNumber);
+
 
 // Referance(Non-Premitive): 
 
