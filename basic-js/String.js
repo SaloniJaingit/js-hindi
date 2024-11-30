@@ -17,5 +17,19 @@ const mail = "salonijain%20@gamil.com";
 
 const trim = "  trimthis ";
 
-console.log(trim.trim());
+// console.log(trim.trim());
+
+const contentString = "Hello,world";
+// console.log(contentString.anchor("Hello"));
+
+
+// String at():
+// A String consisting of the single UTF-16 
+// code unit located at the specified position. Returns undefined if the given index can not be found.
+// Example:--->console.log(contentString.at(-11));
+
+
+
+
+
 
